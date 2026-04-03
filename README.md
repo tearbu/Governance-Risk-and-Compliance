@@ -16,7 +16,8 @@ Aspiring GRC Analyst with hands-on experience in:
 
 | # | Project | Core Skills |
 |---|---------|--------------|
-| 1 | [Mini Compliance Program (ISO 27001/NIST)](./project-1-compliance-program/) | Framework alignment, control mapping, gap analysis |
+| 1 | [Mini Compliance Program (ISO 27001/NIST)](./
+Gov) | Framework alignment, control mapping, gap analysis |
 | 2 | [Risk Register with Heat Map](./project-2-risk-register/) | Risk scoring, mitigation strategies, reporting |
 | 3 | [Vendor Assessment Template](./project-3-vendor-assessment/) | Third-party risk, questionnaire design, scoring |
 | 4 | [Incident Response Plan & Tabletop Test](./project-4-incident-response/) | IR planning, role definition, simulation |
