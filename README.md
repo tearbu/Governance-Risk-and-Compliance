@@ -60,6 +60,3 @@ Aspiring GRC Analyst with hands-on experience in:
 - Third-party vendor risk management
 - Incident response planning
 - Compliance dashboarding & reporting
-
-
-## Last check
