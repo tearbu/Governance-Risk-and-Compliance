@@ -44,19 +44,4 @@ Gov) | Framework alignment, control mapping, gap analysis |
 
 
 
-## About Me
-Aspiring GRC Analyst with hands-on experience in:
-- Security frameworks (ISO 27001, NIST, SOC 2)
-- Risk assessments & gap analysis
-- Third-party vendor risk management
-- Incident response planning
-- Compliance dashboarding & reporting
 
-
-## About Me
-Aspiring GRC Analyst with hands-on experience in:
-- Security frameworks (ISO 27001, NIST, SOC 2)
-- Risk assessments & gap analysis
-- Third-party vendor risk management
-- Incident response planning
-- Compliance dashboarding & reporting
