@@ -3,7 +3,7 @@
 ## 🎯 Objective
 Act as a compliance officer for a fictional startup. Build a mini ISO 27001:2022 compliance program by mapping controls, identifying gaps, assigning owners, and documenting the compliance scope.
 
-## 🏢 Fictional Company: NovaCloud AI Solutions
+## 🏢 Fictional Company: TaiChIre Solutions
 - **Business:** AI-powered analytics for e-commerce
 - **Employees:** 50
 - **Assets in scope:**
