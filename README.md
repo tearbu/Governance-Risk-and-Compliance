@@ -62,4 +62,3 @@ Aspiring GRC Analyst with hands-on experience in:
 - Compliance dashboarding & reporting
 
 
-## Let us see if this reflects in your account
